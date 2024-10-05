@@ -634,7 +634,7 @@ jobs:
     - name: ncnn
       uses: actions/checkout@v4
       with:
-        repository: Tencent/ncnn
+        repository: Abandon-ht/ncnn
         path: ncnn
 
     - name: build-pnnx
@@ -709,7 +709,7 @@ jobs:
     - name: ncnn
       uses: actions/checkout@v4
       with:
-        repository: Tencent/ncnn
+        repository: Abandon-ht/ncnn
         path: ncnn
 
     - name: setup-qemu
@@ -787,7 +787,7 @@ jobs:
     - name: ncnn
       uses: actions/checkout@v4
       with:
-        repository: Tencent/ncnn
+        repository: Abandon-ht/ncnn
         path: ncnn
     - name: build-pnnx
       run: |
@@ -847,7 +847,7 @@ jobs:
     - name: ncnn
       uses: actions/checkout@v4
       with:
-        repository: Tencent/ncnn
+        repository: Abandon-ht/ncnn
         path: ncnn
     - name: build-pnnx
       run: |
@@ -946,7 +946,7 @@ jobs:
     - name: ncnn
       uses: actions/checkout@v4
       with:
-        repository: Tencent/ncnn
+        repository: Abandon-ht/ncnn
         path: ncnn
     - name: build-pnnx
       run: |
@@ -990,7 +990,7 @@ jobs:
     - name: ncnn
       uses: actions/checkout@v4
       with:
-        repository: Tencent/ncnn
+        repository: Abandon-ht/ncnn
         path: ncnn
 
     - name: wheel
@@ -1028,7 +1028,7 @@ jobs:
     - name: ncnn
       uses: actions/checkout@v4
       with:
-        repository: Tencent/ncnn
+        repository: Abandon-ht/ncnn
         path: ncnn
 
     - name: wheel
@@ -1064,7 +1064,7 @@ jobs:
     - name: ncnn
       uses: actions/checkout@v4
       with:
-        repository: Tencent/ncnn
+        repository: Abandon-ht/ncnn
         path: ncnn
 
     - name: wheel
@@ -1104,7 +1104,7 @@ jobs:
     - name: ncnn
       uses: actions/checkout@v4
       with:
-        repository: Tencent/ncnn
+        repository: Abandon-ht/ncnn
         path: ncnn
 
     - name: wheel
