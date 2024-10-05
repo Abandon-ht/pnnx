@@ -4,6 +4,7 @@ on:
   push:
     tags:
       - '*'
+  workflow_dispatch:
 
 env:
   LIBTORCH_VERSION: 2.4.0
